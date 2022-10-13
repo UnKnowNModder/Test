@@ -1,7 +1,7 @@
 # ba_meta require api 7
 import ba, os, _ba
-# its updated
-version = 1.2
+# its update
+version = 1.4
 
 def install(url: str, destination: str) -> None:
     import urllib.request
